@@ -191,7 +191,7 @@ const App: React.FC = () => {
             <div className="text-center">
               <p className="text-emerald-100/40 text-[11px] font-bold uppercase tracking-widest mb-3">Besoin d'aide ?</p>
               <a 
-                href="https://www.esch.lu/vivre/environnement/dechets-recyclage/" 
+                href="https://administration.esch.lu/wp-content/uploads/sites/2/2025/12/Calendrier-des-dechets-2026.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-emerald-300 font-bold hover:underline transition-all text-xs opacity-60 hover:opacity-100"
